@@ -1,1 +1,2 @@
 # nonreleases
+These are abandoned projects of mine or old versions of stuff archived for fun, and which might or might not compile. Some of this is **really** old - only use this as reference or something.
